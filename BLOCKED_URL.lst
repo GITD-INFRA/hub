@@ -4,7 +4,7 @@
 # Purpose: External Blocklist Feed
 # ---------------------------------------------
 
-# BLOCKED URL - REQUEST FROM SECURITY TEAM
+# BLOCKED FQDN - REQUEST FROM SECURITY TEAM
 completeyourcheck.com
 photo-download-drive.info
 hornbeamcairn.top
@@ -40,4 +40,6 @@ cygnetrampart.top
 olivenarthex.top
 loggiaelm.top
 indigocrest.top
+
+# BLOCKED FQDN - Bad Reputation
 perfdevhostfenc.com
