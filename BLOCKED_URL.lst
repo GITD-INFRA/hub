@@ -1,6 +1,6 @@
 # BLOCKED_URL.lst
 # Maintained by: GITD-INFRA
-# Last updated: 2026-09-15 @ 6.01 PM
+# Last updated: 2026-09-21 @ 12.52 PM
 # Purpose: External Blocklist Feed
 # ---------------------------------------------
 
@@ -40,6 +40,7 @@ cygnetrampart.top
 olivenarthex.top
 loggiaelm.top
 indigocrest.top
+mkiaaaa.top
 
 # BLOCKED FQDN - Bad Reputation
 perfdevhostfenc.com
