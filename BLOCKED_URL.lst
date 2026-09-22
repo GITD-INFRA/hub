@@ -1,6 +1,6 @@
 # BLOCKED_URL.lst
 # Maintained by: GITD-INFRA
-# Last updated: 2026-09-22 @ 11.04 AM
+# Last updated: 2026-09-22 @ 12.18 PM
 # Purpose: External Blocklist Feed
 # ---------------------------------------------
 
@@ -42,6 +42,8 @@ loggiaelm.top
 indigocrest.top
 mkiaaaa.top
 yxz-1469461062.cos.ap-singapore.myqcloud.com
+f005.backblazeb2.com
+facaib.s3.us-east-005.backblazeb2.com
 
 # BLOCKED FQDN - Bad Reputation
 perfdevhostfenc.com
