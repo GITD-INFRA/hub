@@ -1,6 +1,6 @@
 # BLOCKED_URL.lst
 # Maintained by: GITD-INFRA
-# Last updated: 2026-10-21 @ 12.55 PM
+# Last updated: 2026-10-21 @ 6.53 PM
 # Purpose: External Blocklist Feed
 # ---------------------------------------------
 
@@ -46,6 +46,7 @@ f005.backblazeb2.com
 facaib.s3.us-east-005.backblazeb2.com
 domain browse-codes-enter.beer
 ip.sb
+medinasabores.com
 
 # BLOCKED FQDN - Bad Reputation
 perfdevhostfenc.com
